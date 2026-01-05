@@ -168,6 +168,46 @@ I have organized the [lab materials](https://github.com/lxmliu2002/NKU-courses) 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 
+<span class='anchor' id='honors-and-awards'></span>
+
+# 🎖 Honors and Awards
+
+- *2025.12*： &nbsp;🎖 [Double Championship, **2025 Tencent Kaiwu AI Global Open Challenge**](https://mp.weixin.qq.com/s/biHRc7RqV0iTK9LWwHkQdw) (腾讯开悟人工智能全球公开赛暨第七届全国高校计算机能力挑战赛人工智能赛 **“智能体决策算法”赛道中级组与高级组双冠军**, in Chinese) (Team "Marco Polo", advised by Prof. [Yong Qin](https://cc.nankai.edu.cn/2021/0323/c29221a565043/page.htm), led by Mingjie Qi)
+
+- *2025.11*： &nbsp;🎖 National Excellence Award, [2025 National Disruptive Technology Innovation Competition](https://mp.weixin.qq.com/s/pfe9h6hLV06EUMqHCWDPew)(全国颠覆性技术创新大赛 **优胜奖**, in Chinese) (Mingqi Team)
+
+- *2025.10*： &nbsp;🎖 [Raft Master (Top Prize), AI Track of the 2025 China Youth Sci-Tech Innovation “Jiebang Guashuai” Challenge](https://mp.weixin.qq.com/s/MwakT9WBTCswwZXJAHxYkg)(2025中国青年科技创新“揭榜挂帅”擂台赛人工智能领域主擂台赛 **擂主**, in Chinese) (LoCCS Team)
+
+- *2025.07*: &nbsp;🎖 Top 10 Outstanding Cases of AI for Sustainable Development，Awarded to the ***Mingqi*** team at the 2nd Belt and Road Sci-Tech Exchange Conference(2025世界人工智能大会 **“全球AI赋能可持续发展十大卓越案例”**, in Chinese)  (Mingqi Team)
+
+- *2025.06*: &nbsp;🎖 Outstanding Student Party Member of Nankai University(优秀共产党员, in Chinese)
+
+- *2025.06*: &nbsp;🎖 Head of Red Flag Party Branch of Nankai University(红旗党支部**负责人**, in Chinese)
+
+- *2025.05*: &nbsp;💰 Zhou Enlai Scholarship [(the highest scholarship of Nankai University)](https://mp.weixin.qq.com/s/KnG_0Qekv1N_9SGn0ALcKw?click_id=44)(南开大学最高奖学金——周恩来奖学金, in Chinese)
+
+- *2025.04*: &nbsp;💰 First Prize of Yun'an Cryptography Innovation Scholarship(云安密码一等奖学金, in Chinese)
+
+- *2024.12*: &nbsp;💰 National Scholarship(国家奖学金, in Chinese) (Top 1%)
+
+- *2024.12*: &nbsp;🎖 Outstanding Student of Nankai University(南开大学三好学生, in Chinese)
+
+- *2024.12*: &nbsp;💰 Ninety-five Core Scholarship, Nankai University(南开大学“九五之‘芯’”奖学金, in Chinese) (10 Students in Nankai University)
+
+- *2024.12*: &nbsp;🎖 Outstanding Student Cadre of Tianjin(天津市优秀学生干部, in Chinese)
+
+- *2024.08*: &nbsp;🏆 Third Prize of National College Students' Computer System Ability Competition(全国大学生计算机系统能力赛**三等奖**, in Chinese)
+
+- *2024.06*: &nbsp;🎖 Head of the "I Do Practical Things for My Classmates" Excellent Project of the All-China Students' Federation(全国学生会组织“我为同学做实事”精品项目**负责人**, in Chinese)
+
+- *2023.11*: &nbsp;🏆 Second Prize of the Tianjin Division of the National College Students' Mathematical Modeling Competition(天津市数学建模比赛**二等奖**, in Chinese)
+
+- *2022.12*: &nbsp;💰 National Scholarship(国家奖学金, in Chinese) (Top 1%)
+
+
+
+
+
 <span class='anchor' id='projects'></span>
 
 # ⚙️ Projects
@@ -414,44 +454,6 @@ I have organized the [lab materials](https://github.com/lxmliu2002/NKU-courses) 
     </ul>
   </div>
 </div>
-
-
-
-<span class='anchor' id='honors-and-awards'></span>
-
-# 🎖 Honors and Awards
-
-- *2025.12*： &nbsp;🎖 [Double Championship, **2025 Tencent Kaiwu AI Global Open Challenge**](https://mp.weixin.qq.com/s/biHRc7RqV0iTK9LWwHkQdw) (腾讯开悟人工智能全球公开赛暨第七届全国高校计算机能力挑战赛人工智能赛 **“智能体决策算法”赛道中级组与高级组双冠军**, in Chinese) (Team "Marco Polo", advised by Prof. [Yong Qin](https://cc.nankai.edu.cn/2021/0323/c29221a565043/page.htm), led by Mingjie Qi)
-
-- *2025.11*： &nbsp;🎖 National Excellence Award, [2025 National Disruptive Technology Innovation Competition](https://mp.weixin.qq.com/s/pfe9h6hLV06EUMqHCWDPew)(全国颠覆性技术创新大赛 **优胜奖**, in Chinese) (Mingqi Team)
-
-- *2025.10*： &nbsp;🎖 [Raft Master (Top Prize), AI Track of the 2025 China Youth Sci-Tech Innovation “Jiebang Guashuai” Challenge](https://mp.weixin.qq.com/s/MwakT9WBTCswwZXJAHxYkg)(2025中国青年科技创新“揭榜挂帅”擂台赛人工智能领域主擂台赛 **擂主**, in Chinese) (LoCCS Team)
-
-- *2025.07*: &nbsp;🎖 Top 10 Outstanding Cases of AI for Sustainable Development，Awarded to the ***Mingqi*** team at the 2nd Belt and Road Sci-Tech Exchange Conference(2025世界人工智能大会 **“全球AI赋能可持续发展十大卓越案例”**, in Chinese)  (Mingqi Team)
-
-- *2025.06*: &nbsp;🎖 Outstanding Student Party Member of Nankai University(优秀共产党员, in Chinese)
-
-- *2025.06*: &nbsp;🎖 Head of Red Flag Party Branch of Nankai University(红旗党支部**负责人**, in Chinese)
-
-- *2025.05*: &nbsp;💰 Zhou Enlai Scholarship [(the highest scholarship of Nankai University)](https://mp.weixin.qq.com/s/KnG_0Qekv1N_9SGn0ALcKw?click_id=44)(南开大学最高奖学金——周恩来奖学金, in Chinese)
-
-- *2025.04*: &nbsp;💰 First Prize of Yun'an Cryptography Innovation Scholarship(云安密码一等奖学金, in Chinese)
-
-- *2024.12*: &nbsp;💰 National Scholarship(国家奖学金, in Chinese) (Top 1%)
-
-- *2024.12*: &nbsp;🎖 Outstanding Student of Nankai University(南开大学三好学生, in Chinese)
-
-- *2024.12*: &nbsp;💰 Ninety-five Core Scholarship, Nankai University(南开大学“九五之‘芯’”奖学金, in Chinese) (10 Students in Nankai University)
-
-- *2024.12*: &nbsp;🎖 Outstanding Student Cadre of Tianjin(天津市优秀学生干部, in Chinese)
-
-- *2024.08*: &nbsp;🏆 Third Prize of National College Students' Computer System Ability Competition(全国大学生计算机系统能力赛**三等奖**, in Chinese)
-
-- *2024.06*: &nbsp;🎖 Head of the "I Do Practical Things for My Classmates" Excellent Project of the All-China Students' Federation(全国学生会组织“我为同学做实事”精品项目**负责人**, in Chinese)
-
-- *2023.11*: &nbsp;🏆 Second Prize of the Tianjin Division of the National College Students' Mathematical Modeling Competition(天津市数学建模比赛**二等奖**, in Chinese)
-
-- *2022.12*: &nbsp;💰 National Scholarship(国家奖学金, in Chinese) (Top 1%)
 
 
 
