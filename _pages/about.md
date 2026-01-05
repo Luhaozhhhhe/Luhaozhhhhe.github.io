@@ -498,12 +498,6 @@ I have organized the [lab materials](https://github.com/lxmliu2002/NKU-courses) 
 
 
 
-<span class='anchor' id='beyond-academics'></span>
-
-# 🪽 Beyond Academics
-
-I like **music, billiards, traveling and badminton**. At the same time, I am also keen to try various positions of student work. I am a **warm-hearted person**. If you encounter any problems, you can always come to me and I will do my best to help you.
-
 
 <div class="logo-row">
   <img src="../images/nku_logo.png" alt="NKU Logo">
