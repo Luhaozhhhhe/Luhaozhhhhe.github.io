@@ -91,41 +91,14 @@ redirect_from:
 
 <span class='anchor' id='about'></span>
 
-Hello everyone, my name is Haozhe Lu (陆皓喆). I am currently an undergraduate student in the College of Cryptology and Cyber Science, Nankai University, majoring in Cyber Security and minoring in Finance. Please feel free to contact me through 15058298819@163.com if you are interested in my projects.
+Hello everyone, my name is Haozhe Lu (陆皓喆). I am currently an undergraduate student in the College of Cryptology and Cyber Science(密码与网络空间安全学院), Nankai University(南开大学), majoring in Cyber Security and minoring in Finance. Please feel free to contact me through **15058298819@163.com** if you are interested in my projects.
+
+In September 2026, I will begin my graduate studies at Peking University(北京大学), pursuing a Master's degree in Network and Information Security(网络与信息安全). My research interests lie in the fields of AI Security and Large Language Model (LLM) Security.
+
+I have organized the [Course Note](https://github.com/Luhaozhhhhe/NKU_Course_Note)，[Lab Report](https://github.com/Luhaozhhhhe/NKU_Lab_Report) for the Information Security major courses at Nankai University, as well as the [Final Exam](https://github.com/Luhaozhhhhe/NKU_Final_Exam) for theoretical courses. 
 
 
-I have organized the [lab materials](https://github.com/lxmliu2002/NKU-courses) for the Information Security major courses at Nankai University, as well as the [lecture notes and past exam papers](https://github.com/lxmliu2002/NKU-cyber) for theoretical courses. Detailed content can be found at [Baidu Cloud](https://pan.baidu.com/s/1XEdQ580od2ExjIEDnVg0mA?pwd=iNKU).
 
-
-
-
-<span class='anchor' id='news'></span>
-
-# 🔥 News
-
-*2025.12*: &nbsp;🎉 Our team "Marco Polo" (advised by Prof. [Yong Qin](https://cc.nankai.edu.cn/2021/0323/c29221a565043/page.htm), led by Mingjie Qi) won both the Intermediate and Advanced tracks of the "Agent Decision-Making Algorithm"(智能体决策算法, in Chinese) category at [the 2025 Tencent Kaiwu AI Global Open Challenge](https://mp.weixin.qq.com/s/biHRc7RqV0iTK9LWwHkQdw)(腾讯开悟人工智能全球公开赛暨第七届全国高校计算机能力挑战赛人工智能赛, in Chinese)!
-
-*2025.12*: &nbsp;🎉 Paper “Quantifying Large Language Model Attacks Through the Lens of Model Cognition” (first-authored) accepted by USENIX Security 2026(CCF-A, one of the top four security conferences) — see you in Baltimore!
-
-*2025.11*: &nbsp;🎉 Our project *"Multimodal Large Model-Driven Transparent Diagnosis Pod for Precision Gastrointestinal Disease Screening"* won the **National Excellence Award** at the [2025 National Disruptive Technology Innovation Competition](https://mp.weixin.qq.com/s/pfe9h6hLV06EUMqHCWDPew)(全国颠覆性技术创新大赛, in Chinese), ranking among the top entries out of over 2,200 submissions nationwide!
-
-*2025.10*: &nbsp;🎉 Our project "‘Youan: Multi-Agent AI Chain for End-to-End Disaster Response" was crowned [Raft Master (Top Prize)](https://mp.weixin.qq.com/s/MwakT9WBTCswwZXJAHxYkg) in the AI Track of the 2025 China Youth Sci-Tech Innovation “Open Competition for Key Projects” Challenge(2025中国青年科技创新“揭榜挂帅”擂台赛人工智能领域主擂台赛, in Chinese) under SH-23: "Multimodal-based Catastrophe Early Warning and Loss Mitigation".
-
-*2025.09*: &nbsp;👋 I am leaving [Ant Group](https://www.antgroup.com/)'s [Cryptology Lab](https://antcplab.github.io/) after a great internship.
-
-*2025.09*: &nbsp;🎉 Paper [“SoK: Robustness in Large Language Models against Jailbreak Attacks”](https://github.com/XOTaichi/Security-Cube-Artifact) (with Feiyue Xu) accepted by IEEE S&P 2026(CCF-A, one of the top four security conferences).
-
-*2025.08*: &nbsp;🎉 My research has been officially registered with the China Copyright Protection Center, and the technology has been successfully deployed by a cybersecurity unit, achieving tangible results in real-world applications. Many thanks to all collaborators and mentors for their invaluable support and guidance!
-
-*2025.08*: &nbsp;😭 After communicating with GitHub's support team for a full month, the website has finally been restored!
-
-*2025.08*: &nbsp;🎉 I have organized the [lab materials](https://github.com/lxmliu2002/NKU-courses) for the Information Security major courses at Nankai University, as well as the [lecture notes and past exam papers](https://github.com/lxmliu2002/NKU-cyber) for theoretical courses. Detailed content can be found at [Baidu Cloud](https://pan.baidu.com/s/1XEdQ580od2ExjIEDnVg0mA?pwd=iNKU).
-
-*2025.07*: &nbsp;🎉 Our case study on *"Multimodal Large Models Empowering Early Screening and Accurate Diagnosis of Serious Diseases"* was awarded the **"Al & SDGs: Top 10 Beacon Initiatives"** at the 2025 World Artificial Intelligence Conference(2025世界人工智能大会“全球AI赋能可持续发展十大卓越案例”, in Chinese).
-
-*2025.06*: &nbsp;🎉 I joined [Ant Group](https://www.antgroup.com/)'s [Cryptology Lab](https://antcplab.github.io/) as an intern. 
-
-*2025.06*: &nbsp;🎉 I obtained a Bachelor of Engineering degree from [Nankai University](https://www.nankai.edu.cn/). 
 
 <!-- 
 
@@ -149,7 +122,89 @@ I have organized the [lab materials](https://github.com/lxmliu2002/NKU-courses) 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 
+<span class='anchor' id='educations'></span>
 
+# 📖 Educations
+
+- *2022.09 - 2026.06*, **[College of Cryptology and Cyber Science](https://cyber.nankai.edu.cn/)(密码与网络空间安全学院), [Nankai University](https://www.nankai.edu.cn/)(南开大学)**
+
+  *- Major in Cyber Security & Minor in Finance(主修信息安全，辅修金融学)*
+
+- *2026.09 - 2029.06*, **[College of Software and Microelectronics](https://ss.pku.edu.cn/)(软件与微电子学院), [Peking University](https://www.pku.edu.cn/)(北京大学)**
+
+
+
+<span class='anchor' id='honors-and-awards'></span>
+
+# 🎖 Honors and Awards
+
+- 2025.12:&nbsp;🏆The 3rd price of 2025 Haihe Cup(￥5000),Tianjin(天津市“海河工匠杯”技能大赛决赛三等奖)；
+
+- 2025.11:&nbsp;🎖Excellent student, Tianjin(**天津市优秀学生**)；
+
+- 2025.11:&nbsp;🎖Outstanding Student, Nankai University(南开大学三好学生)；
+
+- 2025.11:&nbsp;💰BYD Scholarship(￥10000, Top 0.6%), Nankai University(**比亚迪奖学金**)；
+
+- 2025.10:&nbsp;🏆Changcheng Cup, China(2025年第五届“长城杯”网络安全大赛“安全卫士”称号)；
+
+- 2025.10:&nbsp;🏆The 1st prize of 2025 Beijing–Tianjin–Hebei Security Cup, Tianjin(2025年京津冀大学生信息安全网络攻防大赛决赛一等奖)；
+
+- 2025.09:&nbsp;💰National Scholarship(￥10000, Top 0.6%), China(**国家奖学金**)；
+
+- 2025.09:&nbsp;🎖Excellent Teaching Assistant, Nankai University(南开大学本科课程优秀助教)；
+
+- 2025.08:&nbsp;🏆The 1st prize of [National Crypto-math Challenge](https://mp.weixin.qq.com/s/s_k4A0qcHwXBW3SreGsyRQ)(￥10000, Top 4), China(第十届全国高校密码数学挑战赛全国总决赛**一等奖**，单赛道**第一名**，并作为唯一本科生参与**特等奖答辩**)；
+
+- 2025.08:&nbsp;🏆The 2nd prize of [National AI Security Contest for College Students](https://mp.weixin.qq.com/s/OpAf9eXVn_wdsNrdve7mfQ), China(第一届全国大学生人工智能安全竞赛作品赛二等奖)；
+
+- 2025.07:&nbsp;🏆The 1st prize of National Crypto-math Challenge(rank 1st), Huabei Region(第十届全国高校密码数学挑战赛华北赛区一等奖，单赛道**第一名**)；
+
+- 2025.06:&nbsp;🎖Awarded the Honorary Title of "Top Ten Micro Party Lectures"，Nankai University(南开大学“十佳微党课”荣誉称号)；
+
+- 2025.06:&nbsp;🎖Outstanding Team in the National College Student Yimeng Spirit Volunteer Publicity Campaign，China(全国大学生沂蒙精神志愿宣讲活动优秀团队)；
+
+- 2025.06:&nbsp;🎖Head of Red Flag Party Branch，Nankai University(南开大学红旗学生党支部主要负责人)；
+
+- 2025.05:&nbsp;🎖Outstanding Communist Youth League Cadre, Nankai University(南开大学优秀共青团干部)；
+
+- 2025.04:&nbsp;💰First Prize of [Yun'an Scholarship](https://mp.weixin.qq.com/s/CTF8igqmYcOteFqi6dZI1g)(￥5000, Top 1.6%), Nankai University(南开大学“云安密码创新奖学金”一等奖)；
+
+- 2025.04:&nbsp;🏆Top 10 Singers in the Second Singing Competition of the College of Cryptology and Cyber Science, Nankai University(学院第二届十大歌手)；
+
+- 2025.03:&nbsp;🏆The 3rd Prize (CTF) of [National College Student information Security Contest](http://www.ciscn.cn/competition/securityCompetition), China(第十八届全国大学生信息安全竞赛创新实践能力赛半决赛三等奖)；
+
+- 2025.03:&nbsp;🎖National Information Security Test Program(Grade 1), China(国家信息安全水平考试一级)；
+
+- 2025.02:&nbsp;🎖Awarded the Title of "Top Ten Volunteer Service Projects"，Nankai University(南开大学“十佳志愿服务项目”称号);
+
+- 2024.12:&nbsp;🎖Sangfor Certified Security Associate Service, China(深信服SCSA认证)；
+
+- 2024.11:&nbsp;🏆Qiangwang Pioneer Prize of [Qiangwang Bei](https://www.qiangwangbei.com/), China(第八届强网杯“强网先锋”荣誉称号)；
+
+- 2024.11:&nbsp;🏆Wangding Star of [Wangding Bei](https://www.wangdingcup.com/index_list.html), China(第四届网鼎杯“网鼎之星”荣誉称号)；
+
+- 2024.11:&nbsp;🎖Outstanding Student, Nankai University(南开大学三好学生)；
+
+- 2024.10:&nbsp;🎖Qianxin Certified Emergency Response Engineer, China(奇安信应急响应工程师认证)；
+
+- 2024.09:&nbsp;💰National Scholarship(￥10000, Top 0.6%), China(**国家奖学金**)；
+
+- 2024.09:&nbsp;🏆The 1st prize of [2024 Beijing–Tianjin–Hebei Security Cup](https://www.tjise.edu.cn/info/1007/3442.htm), Tianjin(2024年京津冀大学生信息安全网络攻防大赛决赛一等奖)；
+
+- 2024.09:&nbsp;🎖Outstanding Core Member of the "Hao Mi" Group, Nankai University(“豪密”爱国主义宣讲团优秀骨干)；
+
+- 2024.05:&nbsp;🎖Outstanding Youth League member, Nankai University(南开大学优秀共青团员)；
+
+- 2023.12:&nbsp;🏆Third prize of the 15th Chinese Mathematics Competitions, China(第十五届全国大学生数学竞赛三等奖)；
+
+- 2023.10:&nbsp;🏆Top 10 Singers in the First Singing Competition of the College of Cryptology and Cyber Science, Nankai University(学院第一届十大歌手)；
+
+- 2023.10:&nbsp;💰Academic Excellence Scholarship(￥2000), Nankai University(南开大学学业优秀奖学金)；
+
+- 2023.10:&nbsp;💰Literary and Sports Scholarship(￥2000), Nankai University(南开大学文体奖学金)；
+
+- 2023.05:&nbsp;🎖Third Prize and Outstanding Organization Award in "May Flowers" Choir Competition(as Team Leader), Nankai University(作为学院领队，获南开大学“五月的鲜花”合唱比赛三等奖、优秀组织奖)；
 
 
 
@@ -162,303 +217,26 @@ I have organized the [lab materials](https://github.com/lxmliu2002/NKU-courses) 
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">Youan</div>
-      <img src='images/projects/youan.svg' alt="Mingqi" width="100%">
+      <div class="badge">Zipf</div>
+      <img src='images/projects/Zipf.png' alt="Zipf" width="100%">
     </div>
   </div>
 
   <div class='paper-box-text'>
     <p>
-      <a href="https://mp.weixin.qq.com/s/MwakT9WBTCswwZXJAHxYkg" target="_blank" rel="noopener"><strong>“Youan” Multi-Agent AI Chain for End-to-End Disaster Response</strong></a>
-    </p>
-    <p>
-      <span class="paper-role-badge">Core Leader</span>
-      <span class="paper-time-badge">May 2025 – Oct 2025</span>
-    </p>
-    <ul style="margin-top: 0.5em; padding-left: 1.5em;">
-      <li>Designed a “multi-modality fusion encoder + WARM expert agent swarm + panoramic cockpit with safety foundation” tripartite architecture to tackle data fusion, cross-phase coordination, and trustworthiness in AI-driven disaster response.</li>
-      <li>Enabled real-time, voice-controlled AR-assisted field operations for frontline responders, achieving “one-person army” situational awareness during large-scale emergencies.</li>
-      <li>Deployed the system in public safety, insurance assessment, and healthcare domains.</li>
-      <li>Awarded <strong>Raft Master (Top Prize)</strong> in the AI Track of the 2025 China Youth Sci-Tech Innovation “Open Competition for Key Projects” Challenge under SH-23: “Multimodal-based Catastrophe Early Warning and Loss Mitigation.”</li>
-    </ul>
-  </div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">Mingqi</div>
-      <img src='images/projects/mingqi.svg' alt="Mingqi" width="100%">
-    </div>
-  </div>
-
-  <div class='paper-box-text'>
-    <p>
-      <a href="http://mingqi.sh.cn/" target="_blank" rel="noopener"><strong>“Mingqi” Medical Imaging Large Model Matrix</strong></a>
-    </p>
-    <p>
-      <span class="paper-role-badge">Subproject Leader</span>
-      <span class="paper-time-badge">Dec 2024 – Present</span>
-    </p>
-    <ul style="margin-top: 0.5em; padding-left: 1.5em;">
-      <li>Multi-granularity features + domain-specific LLM → endoscopic reports with >20% higher semantic similarity.</li>
-      <li>Enhanced cross-modal image-text retrieval via fine-tuned PMC-CLIP, achieving precise case matching with >30% higher accuracy.</li>
-      <li>Built 20-hr Mandarin medical speech corpus (via voice cloning), reducing ASR false positive rate by >20%.</li>
-      <li>Recognized as one of the Top 10 AI Application Scenarios at the 2nd Belt and Road Sci-Tech Exchange Conference; awarded Top 10 Outstanding Cases of AI for Sustainable Development.</li>
-    </ul>
-  </div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">ArXivToday</div>
-      <img src='images/projects/arxiv.png' alt="ArXivToday-Lark" width="100%">
-    </div>
-  </div>
-
-  <div class='paper-box-text'>
-    <p>
-      <a href="https://github.com/InfinityUniverse0/ArXivToday-Lark" target="_blank" rel="noopener"><strong>ArXivToday-Lark: Automated arXiv Paper Delivery for Lark Teams</strong></a>
-    </p>
-    <p>
-      <span class="paper-role-badge">Key Team Member</span>
-      <span class="paper-time-badge">Mar 2025 – Mar 2025</span>
-    </p>
-    <ul style="margin-top: 0.5em; padding-left: 1.5em;">
-      <li>Developed a lightweight automation tool that fetches the latest arXiv papers daily and delivers them directly to Lark group chats via a custom bot, streamlining research discovery for academic teams.</li>
-      <li>Features include scheduled fetching, customizable topic filters, LLM-powered paper summarization and translation, and influence prediction (in development).</li>
-      <li>Designed for extensibility—supports integration with other messaging platforms and backend enhancements for intelligent paper recommendation.</li>
-    </ul>
-  </div>
-</div>
-
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">T2I-Fuzzer</div>
-      <img src='images/projects/t2i.png' alt="T2I-Fuzzer" width="100%">
-    </div>
-  </div>
-
-  <div class='paper-box-text'>
-    <p>
-      <a href="https://tianchi.aliyun.com/competition/entrance/532268" target="_blank" rel="noopener"><strong>T2I-Fuzzer: Jailbreaking Text-to-Image Large Models via Hybrid Strategies</strong></a>
-    </p>
-    <p>
-      <span class="paper-role-badge">Key Team Member</span>
-      <span class="paper-time-badge">Sep 2024 – Oct 2024</span>
-    </p>
-    <ul style="margin-top: 0.5em; padding-left: 1.5em;">
-      <li>Designed multi-level attack strategies to expose vulnerabilities in T2I models, optimizing adversarial efficacy from a zero-sum game perspective.</li>
-      <li>Implemented a unified attack and evaluation framework, enabling efficient and stealthy rewriting of harmful prompts to bypass safety filters in T2I systems.</li>
-      <li>Participated in the overall framework design and conducted testing of attack schemes such as adversarial captioning; built an attack knowledge base and implemented automatic prompt sanitization.</li>
-    </ul>
-  </div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">Web3_MLM</div>
-      <img src='images/projects/mlm.png' alt="Web3_MLM" width="100%">
-    </div>
-  </div>
-
-  <div class='paper-box-text'>
-    <p>
-      <a href="https://mlm01.com" target="_blank" rel="noopener"><strong>Web3_MLM: Intelligent Reverse Analysis for Solidity Smart Contracts</strong></a>
+      <a href="https://mp.weixin.qq.com/s/G7Z5YdUcSwm8qtpgRfDTkQ" target="_blank" rel="noopener"><strong>Revisiting Zipf ’s Law in Passwords: A Taylor Series Modeling Approach</strong></a>
     </p>
     <p>
       <span class="paper-role-badge">Team Member</span>
-      <span class="paper-time-badge">Jan 2024 – Apr 2024</span>
+      <span class="paper-time-badge">2025.04 – 2025.08</span>
     </p>
-    <ul style="margin-top: 0.5em; padding-left: 1.5em;">
-      <li>Supervisor: <strong><a href="https://netsec.ccert.edu.cn/chs/people/chaoz/" target="_blank" rel="noopener noreferrer">Chao Zhang</a></strong>, Associate Professor, Tenured, Deputy Director of Institute for Network Sciences, Tsinghua University</li>
-      <li>Web3_MLM is a subset of the <strong><a href="https://mlm01.com" target="_blank" rel="noopener noreferrer">MLM</a></strong> project, providing an intelligent reverse analysis solution for Solidity smart contracts.</li>
-      <li>Constructed a high-quality, comprehensive dataset containing Solidity source code, assembly code, and bytecode; performed data augmentation and aligned data formats at both contract-level and function-level granularity.</li>
-    </ul>
+<ul style="margin-top: 0.5em; padding-left: 1.5em;">
+    <li>Reproduced CDF-Zipf from the <a href="https://ieeexplore.ieee.org/document/7961213">original paper</a> and conducted multiple rounds of experiments to test the fitting rate, obtaining error results consistent with those in the paper. Optimized the original paper's approach using methods such as the binsort algorithm, achieving a performance improvement of <strong>1.97-3.93 times</strong>.</li>
+    <li>Proposed a new model, <strong>Exp-Cutoff</strong>, and a hybrid model, <strong>Mix_CDF</strong>, which integrates the strengths of CDF-Zipf and <a href="https://ieeexplore.ieee.org/abstract/document/9777714">Stretched-exponential</a>. Both models achieved the best KS distance on all test datasets (Myspace, Rockyou, Dodonew, 000webhost, etc.), with a maximum optimization of <strong>55.39%</strong>.</li>
+    <li>Conducted <strong>subset stability validation</strong> experiments by fitting data subsets of varying proportions (10%, 25%, etc.). The resulting errors were all below <strong>5%</strong>, demonstrating the stability of the models.</li>
+</ul>
   </div>
 </div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">RMDB</div>
-      <img src='images/projects/RMDB.jpg' alt="RMDB" width="100%">
-    </div>
-  </div>
-
-  <div class='paper-box-text'>
-    <p>
-      <strong>RMDB: Database Management System for the National Contest on System Capacity</strong>
-    </p>
-    <p>
-      <span class="paper-role-badge">Key Team Member</span>
-      <span class="paper-time-badge">May 2024 – Aug 2024</span>
-    </p>
-    <ul style="margin-top: 0.5em; padding-left: 1.5em;">
-      <li>Enhanced a database management system within a given framework to support MySQL-like SQL functionalities.</li>
-      <li>Implemented storage management module, contributing to over 35% of the team's completed tasks in the preliminary round.</li>
-      <li>Participated in optimizing the <code>COUNT(*)</code> etc. query, achieving approximately 10% performance improvement.</li>
-    </ul>
-  </div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">SysY-to-ARM</div>
-      <img src='images/projects/sysy.png' alt="SysY-to-ARM Compiler" width="100%">
-    </div>
-  </div>
-
-  <div class='paper-box-text'>
-    <p>
-      <a href="https://github.com/lxmliu2002/Principles_of_Compilation_Systems" target="_blank" rel="noopener"><strong>SysY-to-ARM Compiler</strong></a>
-    </p>
-    <p>
-      <span class="paper-role-badge">Team Header</span>
-      <span class="paper-time-badge">Oct 2023 – Jan 2024</span>
-    </p>
-    <ul style="margin-top: 0.5em; padding-left: 1.5em;">
-      <li>Developed a compiler from SysY (educational language) to ARM assembly in C++, covering full compilation pipeline.</li>
-      <li>Implemented lexing (Flex), parsing (Yacc), backpatching-based control flow translation, and optimizations (CSE, DCE).</li>
-    </ul>
-  </div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">CodeHint</div>
-      <img src='images/projects/python.png' alt="Python Code Completion with Neo4j" width="100%">
-    </div>
-  </div>
-
-  <div class='paper-box-text'>
-    <p>
-      <a href="https://github.com/lxmliu2002/ZRGJ2023" target="_blank" rel="noopener"><strong>Python Code Completion System Based on Neo4j Graph Database</strong></a>
-    </p>
-    <p>
-      <span class="paper-role-badge">Team Member</span>
-      <span class="paper-time-badge">Jul 2023 – Aug 2023</span>
-    </p>
-    <ul style="margin-top: 0.5em; padding-left: 1.5em;">
-      <li>Developed a context-aware Python code completion system using Neo4j as a graph database to infer variable types, addressing the lack of built-in type hinting in standard Python interpreters.</li>
-      <li>Responsible for syntactic analysis of input code and querying the graph database; implemented path traversal logic to retrieve successor nodes, perform type inference, and return results to the frontend.</li>
-      <li>Designed with extensibility in mind—can be adapted into a VS Code extension for real-time intelligent code suggestions.</li>
-    </ul>
-  </div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">JingZhiYao</div>
-      <img src='images/projects/jingzhiyao.png' alt="JingZhiYao" width="100%">
-    </div>
-  </div>
-
-  <div class='paper-box-text'>
-    <p>
-      <strong>JingZhiYao: A Blockchain-Based Scheme for Precise Rumor Refutation and Traceability</strong>
-    </p>
-    <p>
-      <span class="paper-role-badge">Team Member</span>
-      <span class="paper-time-badge">May 2023 – Jul 2023</span>
-    </p>
-    <ul style="margin-top: 0.5em; padding-left: 1.5em;">
-      <li>Designed a cross-platform rumor governance scheme leveraging blockchain technology, aiming to optimize key stages in rumor management including rumor identification, precise refutation, and traceability for accountability.</li>
-      <li>Responsible for the design and implementation of the database, as well as backend database integration; achieved secure data upload, encryption, storage, and smart contract-based retrieval for message matching, verification, and filtering, supporting information traceability and evidence preservation.</li>
-    </ul>
-  </div>
-</div>
-
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">Zouma</div>
-      <img src='images/projects/zouma.png' alt="Zouma Game" width="100%">
-    </div>
-  </div>
-
-  <div class='paper-box-text'>
-    <p>
-      <a href="https://github.com/lxmliu2002/Zouma" target="_blank" rel="noopener"><strong>Zouma: A C++ Graphical Game with Winter Olympics Theme</strong></a>
-    </p>
-    <p>
-      <span class="paper-role-badge">Course Project</span>
-      <span class="paper-time-badge">Apr 2022 – May 2022</span>
-    </p>
-    <ul style="margin-top: 0.5em; padding-left: 1.5em;">
-      <li>Developed a Zouma-style puzzle game in C++ using the EasyX graphics library, featuring a custom game loop, path-based ball movement, and interactive cannon control with real-time mouse tracking.</li>
-      <li>Implemented core mechanics including ball trajectory generation (via linear interpolation of key points), collision detection, ball elimination logic, and dynamic visual effects (e.g., rotating "Bing Dwen Dwen" character).</li>
-      <li>Integrated background music and sound effects using Windows MCI API; designed start screen, win/loss detection, and smooth transitions between game states.</li>
-      <li>Awarded **2nd place in class** for creativity, code quality, and user experience in the course project evaluation.</li>
-    </ul>
-  </div>
-</div>
-
-
-
-<span class='anchor' id='honors-and-awards'></span>
-
-# 🎖 Honors and Awards
-
-- *2025.12*： &nbsp;🎖 [Double Championship, **2025 Tencent Kaiwu AI Global Open Challenge**](https://mp.weixin.qq.com/s/biHRc7RqV0iTK9LWwHkQdw) (腾讯开悟人工智能全球公开赛暨第七届全国高校计算机能力挑战赛人工智能赛 **“智能体决策算法”赛道中级组与高级组双冠军**, in Chinese) (Team "Marco Polo", advised by Prof. [Yong Qin](https://cc.nankai.edu.cn/2021/0323/c29221a565043/page.htm), led by Mingjie Qi)
-
-- *2025.11*： &nbsp;🎖 National Excellence Award, [2025 National Disruptive Technology Innovation Competition](https://mp.weixin.qq.com/s/pfe9h6hLV06EUMqHCWDPew)(全国颠覆性技术创新大赛 **优胜奖**, in Chinese) (Mingqi Team)
-
-- *2025.10*： &nbsp;🎖 [Raft Master (Top Prize), AI Track of the 2025 China Youth Sci-Tech Innovation “Jiebang Guashuai” Challenge](https://mp.weixin.qq.com/s/MwakT9WBTCswwZXJAHxYkg)(2025中国青年科技创新“揭榜挂帅”擂台赛人工智能领域主擂台赛 **擂主**, in Chinese) (LoCCS Team)
-
-- *2025.07*: &nbsp;🎖 Top 10 Outstanding Cases of AI for Sustainable Development，Awarded to the ***Mingqi*** team at the 2nd Belt and Road Sci-Tech Exchange Conference(2025世界人工智能大会 **“全球AI赋能可持续发展十大卓越案例”**, in Chinese)  (Mingqi Team)
-
-- *2025.06*: &nbsp;🎖 Outstanding Student Party Member of Nankai University(优秀共产党员, in Chinese)
-
-- *2025.06*: &nbsp;🎖 Head of Red Flag Party Branch of Nankai University(红旗党支部**负责人**, in Chinese)
-
-- *2025.05*: &nbsp;💰 Zhou Enlai Scholarship [(the highest scholarship of Nankai University)](https://mp.weixin.qq.com/s/KnG_0Qekv1N_9SGn0ALcKw?click_id=44)(南开大学最高奖学金——周恩来奖学金, in Chinese)
-
-- *2025.04*: &nbsp;💰 First Prize of Yun'an Cryptography Innovation Scholarship(云安密码一等奖学金, in Chinese)
-
-- *2024.12*: &nbsp;💰 National Scholarship(国家奖学金, in Chinese) (Top 1%)
-
-- *2024.12*: &nbsp;🎖 Outstanding Student of Nankai University(南开大学三好学生, in Chinese)
-
-- *2024.12*: &nbsp;💰 Ninety-five Core Scholarship, Nankai University(南开大学“九五之‘芯’”奖学金, in Chinese) (10 Students in Nankai University)
-
-- *2024.12*: &nbsp;🎖 Outstanding Student Cadre of Tianjin(天津市优秀学生干部, in Chinese)
-
-- *2024.08*: &nbsp;🏆 Third Prize of National College Students' Computer System Ability Competition(全国大学生计算机系统能力赛**三等奖**, in Chinese)
-
-- *2024.06*: &nbsp;🎖 Head of the "I Do Practical Things for My Classmates" Excellent Project of the All-China Students' Federation(全国学生会组织“我为同学做实事”精品项目**负责人**, in Chinese)
-
-- *2023.11*: &nbsp;🏆 Second Prize of the Tianjin Division of the National College Students' Mathematical Modeling Competition(天津市数学建模比赛**二等奖**, in Chinese)
-
-- *2022.12*: &nbsp;💰 National Scholarship(国家奖学金, in Chinese) (Top 1%)
-
-
-
-<span class='anchor' id='educations'></span>
-
-# 📖 Educations
-
-- *2021.09 - 2025.06*, **[College of Cryptology and Cyber Science](https://cyber.nankai.edu.cn/), [Nankai University](https://www.nankai.edu.cn/)**
-
-  *- Bachelor of Information Security, Ranked 1st in the grade*
-
-- *2025.09 - Present*, **College of Cyber Science, [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/)**
-
-  *- Master of Electronic Information*
-
-  *- Lab: Laboratory of Cryptography and Computer Security (LoCCS), Supervisor: [Shuo Wang](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=181)*
-
-
-
-
 
 
 
@@ -467,29 +245,21 @@ I have organized the [lab materials](https://github.com/lxmliu2002/NKU-courses) 
 
 # 💻 Internships
 
-- *2025.06 - 2025.09*, [Ant Group](https://www.antgroup.com/), Hangzhou, China.
+- *2024.07 - 2024.08*, **[360 Safety Company](https://360.net/)(360安全集团)**
 
-  *- Lab: [Cryptology Lab](https://antcplab.github.io/), Supervisor: Zhicong Huang*
-
-- *2025.01 - 2025.06*, Wuxi Blockchain Advanced Research Center, Wuxi, China.
-
-  *- Lab: Artificial Intelligence and Data Security Lab, Supervisor: [Shuo Wang](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=181), [Chaoxiang He](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=191)*
-
-
-
+  *- Conducted penetration testing and vulnerability discovery tasks, reproduced various types of vulnerabilities, and developed PoC exploits.*
 
 
 
 
 
 <div class="logo-row">
-  <img src="../images/nku_logo.png" alt="NKU Logo">
-  <img src="../images/ant_logo.png" alt="Ant Logo">
-  <img src="../images/sjtu_logo.png" alt="SJTU Logo">
+  <img src="../images/NKU.png" alt="NKU Logo">
+  <img src="../images/PKU.png" alt="PKU Logo">
 </div>
 
 <footer class="site-footer">
-  <p>&copy; 2025 <a href="https://github.com/lxmliu2002" target="_blank" rel="noopener">Xiuming Liu</a> all rights reserved</p>
+  <p>&copy; 2025 <a href="https://github.com/Luhaozhhhhe" target="_blank" rel="noopener">Haozhe Lu</a> all rights reserved</p>
   <p>
     Template adapted from
     <a href="https://github.com/RayeRen/acad-homepage.github.io" target="_blank" rel="noopener">Yi Ren</a>

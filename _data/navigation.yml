@@ -3,20 +3,20 @@ main:
   - title: "About"
     url: "/#about"
 
-  - title: "News"
-    url: "/#news"
+  - title: "Educations"
+    url: "/#educations"
+
+  - title: "Honors and Awards"
+    url: "/#honors-and-awards"
+  
+  # - title: "News"
+  #   url: "/#news"
 
   # - title: "Publications"
   #   url: "/#publications"
 
   - title: "Projects"
     url: "/#projects"
-
-  - title: "Honors and Awards"
-    url: "/#honors-and-awards"
-
-  - title: "Educations"
-    url: "/#educations"
 
   - title: "Internships"
     url: "/#internships"
