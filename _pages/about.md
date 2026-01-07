@@ -240,6 +240,61 @@ I have organized the [Course Note](https://github.com/Luhaozhhhhe/NKU_Course_Not
 
 
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">CodeShielder</div>
+      <img src='images/projects/CodeShielder.png' alt="CodeShielder" width="100%">
+    </div>
+  </div>
+
+  <div class='paper-box-text'>
+    <p>
+      <a href="https://mp.weixin.qq.com/s/TaQEUHLS5iHyKcFEIWorjg" target="_blank" rel="noopener"><strong>CodeShielder: An Expert Vulnerability Detection System Based on Fine-Tuned Large Language Models</strong></a>
+    </p>
+    <p>
+      <span class="paper-role-badge">Team Leader</span>
+      <span class="paper-time-badge">2025.03 – 2025.08</span>
+    </p>
+<ul style="margin-top: 0.5em; padding-left: 1.5em;">
+    <li>Built a vulnerability detection system based on <strong>fine-tuned large language models</strong> and constructed the <strong>VulExpert</strong>, which outperforms prior works (e.g., <a href="https://arxiv.org/pdf/2406.03718">VulLLM</a>) in vulnerability detection.</li>
+    <li>In <strong>dataset construction</strong>, commits were crawled from GitHub, and the VulExpert dataset was built through a series of steps including <strong>binary classification</strong>, <strong>patch crawling</strong>, and <strong>diff code extraction</strong>.</li>
+    <li>For <strong>model fine-tuning</strong>, the acquired dataset was used to fine-tune the base model <strong>Qwen-14B</strong> via <strong>Q-LoRA</strong>, resulting in the fine-tuned model.</li>
+    <li>Fine-tuning tests were conducted on datasets such as <strong>BigVul</strong>, <strong>Draper</strong>, <strong>DiverseVul</strong> and <strong>Reveal</strong>. The results show that our VulExpert achieves significantly better fine-tuning performance compared to baselines.</li>
+</ul>
+  </div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">RAGForensics</div>
+      <img src='images/projects/RAGForensics.png' alt="RAGForensics" width="100%">
+    </div>
+  </div>
+
+  <div class='paper-box-text'>
+    <p>
+      <a href="https://arxiv.org/abs/2504.21668" target="_blank" rel="noopener"><strong>Traceback of Poisoning Attacks to Retrieval-Augmented Generation</strong></a>
+    </p>
+    <p>
+      <span class="paper-role-badge">Team Member</span>
+      <span class="paper-time-badge">2024.09 – 2024.12</span>
+    </p>
+<ul style="margin-top: 0.5em; padding-left: 1.5em;">
+    <li>This project (accepted by WWW'25, available at <a href="https://arxiv.org/pdf/2504.21668">arXiv</a>) was completed during an internship in the research group, focusing on the research of <strong>retrieval-augmented generation (RAG) system poisoning</strong> attacks, defenses, and traceability.</li>
+    <li>Assisted in designing the core <strong>RAGForensics</strong> system, which employs an <strong>iterative process</strong> to remove contaminated text and ensures that the final retrieved text remains benign.</li>
+    <li>Designed experiments using datasets such as NQ, MS-MARCO and HotpotQA, established evaluation metrics, and tested the traceability effectiveness of the RAGForensics system.</li>
+</ul>
+  </div>
+</div>
+
+
+
+
+
+
 
 <span class='anchor' id='internships'></span>
 
