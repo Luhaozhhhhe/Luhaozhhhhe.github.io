@@ -315,9 +315,32 @@ I have organized the [Course Note](https://github.com/Luhaozhhhhe/NKU_Course_Not
 
 <footer class="site-footer">
   <p>&copy; 2025 <a href="https://github.com/Luhaozhhhhe" target="_blank" rel="noopener">Haozhe Lu</a> all rights reserved</p>
+  
+  <!-- 访问计数器 -->
+  <p id="visit-count">Totally Visited Times：<span id="count">0</span></p>
+  
   <p>
     Template adapted from
     <a href="https://github.com/RayeRen/acad-homepage.github.io" target="_blank" rel="noopener">Yi Ren</a>
   </p>
   <p>Last modified: <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: "%b %d, %Y" }}</time></p>
+  
+  <script>
+  // 使用 localStorage 存储访问次数
+  function updateVisitCount() {
+      let count = localStorage.getItem('blogVisitCount');
+      
+      if (!count) {
+          count = 0;
+      }
+      
+      count = parseInt(count) + 1;
+      localStorage.setItem('blogVisitCount', count);
+      
+      document.getElementById('count').textContent = count;
+  }
+
+  // 页面加载时更新计数
+  window.addEventListener('load', updateVisitCount);
+  </script>
 </footer>
