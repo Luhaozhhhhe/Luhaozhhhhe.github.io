@@ -138,19 +138,19 @@ I have organized the [Course Note](https://github.com/Luhaozhhhhe/NKU_Course_Not
 
 # 🎖 Honors and Awards
 
-- 2025.12:&nbsp;🏆The 3rd price of 2025 Haihe Cup(￥5000),Tianjin(天津市“海河工匠杯”技能大赛决赛三等奖)；
+- 2025.12:&nbsp;🏆The 3rd price of [2025 Haihe Cup](https://news.qq.com/rain/a/20260104A05CCT00)(￥5000),Tianjin(天津市“海河工匠杯”技能大赛决赛三等奖)；
 
-- 2025.11:&nbsp;🎖Excellent student, Tianjin(**天津市优秀学生**)；
+- 2025.11:&nbsp;🎖[Excellent student](https://mp.weixin.qq.com/s/aeUkiL33ibibZscemNARZA), Tianjin(**天津市优秀学生**)；
 
 - 2025.11:&nbsp;🎖Outstanding Student, Nankai University(南开大学三好学生)；
 
-- 2025.11:&nbsp;💰BYD Scholarship(￥10000, Top 0.6%), Nankai University(**比亚迪奖学金**)；
+- 2025.11:&nbsp;💰[BYD Scholarship](https://xgb.nankai.edu.cn/Uploads/file/20251107/1762486848163611.pdf)(￥10000, Top 0.6%), Nankai University(**比亚迪奖学金**)；
 
-- 2025.10:&nbsp;🏆Changcheng Cup, China(2025年第五届“长城杯”网络安全大赛“安全卫士”称号)；
+- 2025.10:&nbsp;🏆[Changcheng Cup](https://endbm.ichunqiu.com/ccb2025), China(2025年第五届“长城杯”网络安全大赛“安全卫士”称号)；
 
-- 2025.10:&nbsp;🏆The 1st prize of 2025 Beijing–Tianjin–Hebei Security Cup, Tianjin(2025年京津冀大学生信息安全网络攻防大赛决赛一等奖)；
+- 2025.10:&nbsp;🏆The 1st prize of [2025 Beijing–Tianjin–Hebei Security Cup](https://www.tjise.edu.cn/info/1008/4592.htm), Tianjin(2025年京津冀大学生信息安全网络攻防大赛决赛一等奖)；
 
-- 2025.09:&nbsp;💰National Scholarship(￥10000, Top 0.6%), China(**国家奖学金**)；
+- 2025.09:&nbsp;💰[National Scholarship](http://www.moe.gov.cn/srcsite/A05/s7505/202512/t20251225_1424488.html)(￥10000, Top 0.6%), China(**国家奖学金**)；
 
 - 2025.09:&nbsp;🎖Excellent Teaching Assistant, Nankai University(南开大学本科课程优秀助教)；
 
@@ -158,11 +158,11 @@ I have organized the [Course Note](https://github.com/Luhaozhhhhe/NKU_Course_Not
 
 - 2025.08:&nbsp;🏆The 2nd prize of [National AI Security Contest for College Students](https://mp.weixin.qq.com/s/OpAf9eXVn_wdsNrdve7mfQ), China(第一届全国大学生人工智能安全竞赛作品赛二等奖)；
 
-- 2025.07:&nbsp;🏆The 1st prize of National Crypto-math Challenge(rank 1st), Huabei Region(第十届全国高校密码数学挑战赛华北赛区一等奖，单赛道**第一名**)；
+- 2025.07:&nbsp;🏆The 1st prize of [National Crypto-math Challenge](http://www.cmsecc.com/d/file/xuanchuan/2025-09-05/huabei.pdf)(rank 1st), Huabei Region(第十届全国高校密码数学挑战赛华北赛区一等奖，单赛道**第一名**)；
 
-- 2025.06:&nbsp;🎖Awarded the Honorary Title of "Top Ten Micro Party Lectures"，Nankai University(南开大学“十佳微党课”荣誉称号)；
+- 2025.06:&nbsp;🎖Awarded the Honorary Title of "[Top Ten Micro Party Lectures](https://mp.weixin.qq.com/s/HtZrsLp9LNndmtOzxZeOwQ)"，Nankai University(南开大学“十佳微党课”荣誉称号)；
 
-- 2025.06:&nbsp;🎖Outstanding Team in the National College Student Yimeng Spirit Volunteer Publicity Campaign，China(全国大学生沂蒙精神志愿宣讲活动优秀团队)；
+- 2025.06:&nbsp;🎖Outstanding Team in the [National College Student Yimeng Spirit Volunteer Publicity Campaign](https://mp.weixin.qq.com/s/-nQ3BddP-9yxW9xoccRbog)，China(全国大学生沂蒙精神志愿宣讲活动优秀团队)；
 
 - 2025.06:&nbsp;🎖Head of Red Flag Party Branch，Nankai University(南开大学红旗学生党支部主要负责人)；
 
@@ -188,7 +188,7 @@ I have organized the [Course Note](https://github.com/Luhaozhhhhe/NKU_Course_Not
 
 - 2024.10:&nbsp;🎖Qianxin Certified Emergency Response Engineer, China(奇安信应急响应工程师认证)；
 
-- 2024.09:&nbsp;💰National Scholarship(￥10000, Top 0.6%), China(**国家奖学金**)；
+- 2024.09:&nbsp;💰[National Scholarship](https://xgb.nankai.edu.cn/Uploads/file/20241115/1731659467744499.pdf)(￥10000, Top 0.6%), China(**国家奖学金**)；
 
 - 2024.09:&nbsp;🏆The 1st prize of [2024 Beijing–Tianjin–Hebei Security Cup](https://www.tjise.edu.cn/info/1007/3442.htm), Tianjin(2024年京津冀大学生信息安全网络攻防大赛决赛一等奖)；
 
@@ -204,7 +204,7 @@ I have organized the [Course Note](https://github.com/Luhaozhhhhe/NKU_Course_Not
 
 - 2023.10:&nbsp;💰Literary and Sports Scholarship(￥2000), Nankai University(南开大学文体奖学金)；
 
-- 2023.05:&nbsp;🎖Third Prize and Outstanding Organization Award in "May Flowers" Choir Competition(as Team Leader), Nankai University(作为学院领队，获南开大学“五月的鲜花”合唱比赛三等奖、优秀组织奖)；
+- 2023.05:&nbsp;🎖Third Prize and Outstanding Organization Award in ["May Flowers" Choir Competition](https://mp.weixin.qq.com/s/cq9SY25Z5Ur_hgKEXWDH3A)(as Team Leader), Nankai University(作为学院领队，获南开大学“五月的鲜花”合唱比赛三等奖、优秀组织奖)；
 
 
 
@@ -316,31 +316,10 @@ I have organized the [Course Note](https://github.com/Luhaozhhhhe/NKU_Course_Not
 <footer class="site-footer">
   <p>&copy; 2025 <a href="https://github.com/Luhaozhhhhe" target="_blank" rel="noopener">Haozhe Lu</a> all rights reserved</p>
   
-  <!-- 访问计数器 -->
-  <p id="visit-count">Totally Visited Times：<span id="count">0</span></p>
-  
   <p>
     Template adapted from
     <a href="https://github.com/RayeRen/acad-homepage.github.io" target="_blank" rel="noopener">Yi Ren</a>
   </p>
   <p>Last modified: <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: "%b %d, %Y" }}</time></p>
-  
-  <script>
-  // 使用 localStorage 存储访问次数
-  function updateVisitCount() {
-      let count = localStorage.getItem('blogVisitCount');
-      
-      if (!count) {
-          count = 0;
-      }
-      
-      count = parseInt(count) + 1;
-      localStorage.setItem('blogVisitCount', count);
-      
-      document.getElementById('count').textContent = count;
-  }
 
-  // 页面加载时更新计数
-  window.addEventListener('load', updateVisitCount);
-  </script>
 </footer>
