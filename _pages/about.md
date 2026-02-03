@@ -140,6 +140,8 @@ I have organized the [Course Note](https://github.com/Luhaozhhhhe/NKU_Course_Not
 
 - 2025.12:&nbsp;🏆The 3rd price of [2025 Haihe Cup](https://news.qq.com/rain/a/20260104A05CCT00)(￥5000),Tianjin(天津市“海河工匠杯”技能大赛决赛三等奖)；
 
+- 2025.11:&nbsp;💰Enlai Zhou Scholarship(￥10000, Top 10), Nankai University(**周恩来奖学金初评全校第二，南开大学最高荣誉**)；
+
 - 2025.11:&nbsp;🎖[Excellent student](https://mp.weixin.qq.com/s/aeUkiL33ibibZscemNARZA), Tianjin(**天津市优秀学生**)；
 
 - 2025.11:&nbsp;🎖Outstanding Student, Nankai University(南开大学三好学生)；
