@@ -93,50 +93,25 @@ redirect_from:
 
 Hello everyone, my name is Haozhe Lu (陆皓喆). I am currently an undergraduate student in the College of Cryptology and Cyber Science(密码与网络空间安全学院), Nankai University(南开大学), majoring in Cyber Security and minoring in Finance. Please feel free to contact me through **15058298819@163.com** if you are interested in my projects.
 
-In September 2026, I will begin my graduate studies at Peking University(北京大学), pursuing a Master's degree in Network and Information Security(网络与信息安全). My research interests lie in the fields of AI Security and Large Language Model (LLM) Security.
+In September 2026, I will begin my graduate studies at Peking University(北京大学), pursuing a Master's degree in Network and Information Security(网络与信息安全). 
 
-I have organized the [Course Note](https://github.com/Luhaozhhhhe/NKU_Course_Note)，[Lab Report](https://github.com/Luhaozhhhhe/NKU_Lab_Report) for the Information Security major courses at Nankai University, as well as the [Final Exam](https://github.com/Luhaozhhhhe/NKU_Final_Exam) for theoretical courses. 
+My research interests lie in:
 
+- **LLM Security:**&nbsp;RAG Attacks and Defenses, Poisoning Attacks and so on.
 
+- **LLM for Security:**&nbsp;LLM for Vulnerability Mining, LLM for Penetration Testing and so on.
 
-
-<!-- 
-
-<span class='anchor' id='publications'></span>
-
-# 📝 Publications 
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
-
-
-<span class='anchor' id='educations'></span>
-
-# 📖 Educations
-
-- *2022.09 - 2026.06*, **[College of Cryptology and Cyber Science](https://cyber.nankai.edu.cn/)(密码与网络空间安全学院), [Nankai University](https://www.nankai.edu.cn/)(南开大学)**
-
-  *- Major in Cyber Security & Minor in Finance(主修信息安全，辅修金融学)*
-
-- *2026.09 - 2029.06*, **[College of Software and Microelectronics](https://ss.pku.edu.cn/)(软件与微电子学院), [Peking University](https://www.pku.edu.cn/)(北京大学)**
+I have organized the [Course Note](https://github.com/Luhaozhhhhe/NKU_Course_Note)，[Lab Report](https://github.com/Luhaozhhhhe/NKU_Lab_Report) for the Information Security major courses at Nankai University, as well as the [Final Exam](https://github.com/Luhaozhhhhe/NKU_Final_Exam) for theoretical courses. So far, these resources have assisted over **1,000** students and accumulated more than **200,000** views.
 
 
 
 <span class='anchor' id='honors-and-awards'></span>
 
 # 🎖 Honors and Awards
+
+- 2026.01:&nbsp;🎉Participated in the Third Information Security Youth Training Camp organized by Tsinghua University and ranked top 20%(参与清华大学网络科学与网络空间研究院组织的**第三届信息安全青训营**，在考核中排名前20%);
+
+- 2026.01:&nbsp;🎖Intermediate Network and Information Security Administrator, Tianjin(晋升网络与信息安全管理员**中级工**职称);
 
 - 2025.12:&nbsp;🏆The 3rd price of [2025 Haihe Cup](https://news.qq.com/rain/a/20260104A05CCT00)(￥5000),Tianjin(天津市“海河工匠杯”技能大赛决赛三等奖)；
 
@@ -152,7 +127,7 @@ I have organized the [Course Note](https://github.com/Luhaozhhhhe/NKU_Course_Not
 
 - 2025.10:&nbsp;🏆The 1st prize of [2025 Beijing–Tianjin–Hebei Security Cup](https://www.tjise.edu.cn/info/1008/4592.htm), Tianjin(2025年京津冀大学生信息安全网络攻防大赛决赛一等奖)；
 
-- 2025.09:&nbsp;💰[National Scholarship](http://www.moe.gov.cn/srcsite/A05/s7505/202512/t20251225_1424488.html)(￥10000, Top 0.6%), China(**国家奖学金**)；
+- 2025.09:&nbsp;💰[National Scholarship](http://www.moe.gov.cn/srcsite/A05/s7505/202512/t20251225_1424488.html)(￥10000, Top 0.6%), China(**国家奖学金**, 全学院综合排名第一)；
 
 - 2025.09:&nbsp;🎖Excellent Teaching Assistant, Nankai University(南开大学本科课程优秀助教)；
 
@@ -190,7 +165,7 @@ I have organized the [Course Note](https://github.com/Luhaozhhhhe/NKU_Course_Not
 
 - 2024.10:&nbsp;🎖Qianxin Certified Emergency Response Engineer, China(奇安信应急响应工程师认证)；
 
-- 2024.09:&nbsp;💰[National Scholarship](https://xgb.nankai.edu.cn/Uploads/file/20241115/1731659467744499.pdf)(￥10000, Top 0.6%), China(**国家奖学金**)；
+- 2024.09:&nbsp;💰[National Scholarship](https://xgb.nankai.edu.cn/Uploads/file/20241115/1731659467744499.pdf)(￥10000, Top 0.6%), China(**国家奖学金**, 全学院综合排名第一)；
 
 - 2024.09:&nbsp;🏆The 1st prize of [2024 Beijing–Tianjin–Hebei Security Cup](https://www.tjise.edu.cn/info/1007/3442.htm), Tianjin(2024年京津冀大学生信息安全网络攻防大赛决赛一等奖)；
 
@@ -208,6 +183,35 @@ I have organized the [Course Note](https://github.com/Luhaozhhhhe/NKU_Course_Not
 
 - 2023.05:&nbsp;🎖Third Prize and Outstanding Organization Award in ["May Flowers" Choir Competition](https://mp.weixin.qq.com/s/cq9SY25Z5Ur_hgKEXWDH3A)(as Team Leader), Nankai University(作为学院领队，获南开大学“五月的鲜花”合唱比赛三等奖、优秀组织奖)；
 
+
+
+<span class='anchor' id='publications'></span>
+
+# 📝 Publications 
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">WWW 2025</div>
+      <img src='images/projects/RAGForensics.png' alt="RAGForensics" width="100%">
+    </div>
+  </div>
+
+  <div class='paper-box-text'>
+    <p>
+      <a href="https://arxiv.org/abs/2504.21668" target="_blank" rel="noopener"><strong>Traceback of Poisoning Attacks to Retrieval-Augmented Generation</strong></a>
+    </p>
+    <p>
+      <span class="paper-role-badge">Team Member</span>
+      <span class="paper-time-badge">2024.09 – 2024.12</span>
+    </p>
+<ul style="margin-top: 0.5em; padding-left: 1.5em;">
+    <li>This paper was completed during an internship in the research group, focusing on the research of <strong>retrieval-augmented generation (RAG) system poisoning</strong> attacks, defenses, and traceability.</li>
+    <li>Assisted in designing the core <strong>RAGForensics</strong> system, which employs an <strong>iterative process</strong> to remove contaminated text and ensures that the final retrieved text remains benign.</li>
+    <li>Designed experiments using datasets such as NQ, MS-MARCO and HotpotQA, established evaluation metrics, and tested the traceability effectiveness of the RAGForensics system.</li>
+</ul>
+  </div>
+</div>
 
 
 
@@ -268,33 +272,18 @@ I have organized the [Course Note](https://github.com/Luhaozhhhhe/NKU_Course_Not
 </div>
 
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">RAGForensics</div>
-      <img src='images/projects/RAGForensics.png' alt="RAGForensics" width="100%">
-    </div>
-  </div>
-
-  <div class='paper-box-text'>
-    <p>
-      <a href="https://arxiv.org/abs/2504.21668" target="_blank" rel="noopener"><strong>Traceback of Poisoning Attacks to Retrieval-Augmented Generation</strong></a>
-    </p>
-    <p>
-      <span class="paper-role-badge">Team Member</span>
-      <span class="paper-time-badge">2024.09 – 2024.12</span>
-    </p>
-<ul style="margin-top: 0.5em; padding-left: 1.5em;">
-    <li>This project (accepted by WWW'25, available at <a href="https://arxiv.org/pdf/2504.21668">arXiv</a>) was completed during an internship in the research group, focusing on the research of <strong>retrieval-augmented generation (RAG) system poisoning</strong> attacks, defenses, and traceability.</li>
-    <li>Assisted in designing the core <strong>RAGForensics</strong> system, which employs an <strong>iterative process</strong> to remove contaminated text and ensures that the final retrieved text remains benign.</li>
-    <li>Designed experiments using datasets such as NQ, MS-MARCO and HotpotQA, established evaluation metrics, and tested the traceability effectiveness of the RAGForensics system.</li>
-</ul>
-  </div>
-</div>
 
 
 
+<span class='anchor' id='educations'></span>
 
+# 📖 Educations
+
+- *2022.09 - 2026.06*, **[College of Cryptology and Cyber Science](https://cyber.nankai.edu.cn/)(密码与网络空间安全学院), [Nankai University](https://www.nankai.edu.cn/)(南开大学)**
+
+  *- Major in Cyber Security & Minor in Finance(主修信息安全，辅修金融学)*
+
+- *2026.09 - 2029.06*, **[College of Software and Microelectronics](https://ss.pku.edu.cn/)(软件与微电子学院), [Peking University](https://www.pku.edu.cn/)(北京大学)**
 
 
 
