@@ -111,8 +111,33 @@ I have organized the [Course Note](https://github.com/Luhaozhhhhe/NKU_Course_Not
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
+      <div class="badge">USENIX Security 2026在投</div>
+      <img src='images/projects/GHOSTCITE.png' alt="RAGForensics" width="100%">
+    </div>
+  </div>
+
+  <div class='paper-box-text'>
+    <p>
+      <a href="https://sec26cycle2.usenix.hotcrp.com/" target="_blank" rel="noopener"><strong>GHOSTCITE: A Large-Scale Analysis of Citation Validity in the Age of Large Language Models</strong></a>
+    </p>
+    <p>
+      <span class="paper-role-badge">Co-author</span>
+      <span class="paper-time-badge">2026.01 – 2026.02</span>
+    </p>
+<ul style="margin-top: 0.5em; padding-left: 1.5em;">
+    <li>Develop <strong>GHOSTCITE</strong>, an open-source framework that verifies citations at scale, providing a replicable implementation example for venues, publishers, and future work.</li>
+    <li>We evaluate <strong>13</strong> LLMs across <strong>40</strong> domains on <strong>375,440</strong> citations, showing hallucination rates of <strong>14.23–94.93%</strong> with significant research domain sensitivity.</li>
+    <li>We analyze 2.2M citations from <strong>56,381</strong> papers (2020–2025), finding <strong>604/56,381 (1.07%)</strong> with invalid citations, an <strong>80.9%</strong> increase in 2025, and evidence of propagation (up to 16 repeated errors).</li>
+</ul>
+  </div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
       <div class="badge">WWW 2025</div>
-      <img src='images/projects/RAGForensics.png' alt="RAGForensics" width="100%">
+      <img src='images/projects/RAG.png' alt="RAGForensics" width="100%">
     </div>
   </div>
 
@@ -131,6 +156,10 @@ I have organized the [Course Note](https://github.com/Luhaozhhhhe/NKU_Course_Not
 </ul>
   </div>
 </div>
+
+
+
+
 
 
 
