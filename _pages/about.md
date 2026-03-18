@@ -111,14 +111,14 @@ I have organized the [Course Note](https://github.com/Luhaozhhhhe/NKU_Course_Not
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">USENIX Security 2026在投</div>
+      <div class="badge">arxiv / Preprint</div>
       <img src='images/projects/GHOSTCITE.png' alt="RAGForensics" width="100%">
     </div>
   </div>
 
   <div class='paper-box-text'>
     <p>
-      <a href="https://sec26cycle2.usenix.hotcrp.com/" target="_blank" rel="noopener"><strong>GHOSTCITE: A Large-Scale Analysis of Citation Validity in the Age of Large Language Models</strong></a>
+      <a href="https://arxiv.org/abs/2602.06718" target="_blank" rel="noopener"><strong>GHOSTCITE: A Large-Scale Analysis of Citation Validity in the Age of Large Language Models</strong></a>
     </p>
     <p>
       <span class="paper-role-badge">Co-author</span>
