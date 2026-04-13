@@ -212,6 +212,7 @@ I have organized the [Course Note](https://github.com/Luhaozhhhhe/NKU_Course_Not
 <span class='anchor' id='honors-and-awards'></span>
 
 # 🎖️ Honors and Awards
+- 2026.05:&nbsp;🎖Outstanding Youth League member, Nankai University(南开大学优秀共青团员)；
 
 - 2026.01:&nbsp;🎉Participated in the Third Information Security Youth Training Camp organized by Tsinghua University and ranked top 20%(参与清华大学网络科学与网络空间研究院组织的**第三届信息安全青训营**，在考核中排名前20%);
 
