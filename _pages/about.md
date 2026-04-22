@@ -186,6 +186,7 @@ I have organized the [Course Note](https://github.com/Luhaozhhhhe/NKU_Course_Not
 <span class='anchor' id='competitions'></span>
 
 # 🏆 Competitions
+- 2026.04:&nbsp;🏆The 2nd price of [CCSSSC](https://www.ccsssc.com/home),China(第九届中国高校智能机器人创意大赛-软件系统安全赛华北赛区二等奖)；
 
 - 2025.12:&nbsp;🏆The 3rd price of [2025 Haihe Cup](https://news.qq.com/rain/a/20260104A05CCT00)(￥5000),Tianjin(天津市“海河工匠杯”技能大赛决赛三等奖)；
 
