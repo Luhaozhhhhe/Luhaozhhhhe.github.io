@@ -213,6 +213,8 @@ I have organized the [Course Note](https://github.com/Luhaozhhhhe/NKU_Course_Not
 <span class='anchor' id='honors-and-awards'></span>
 
 # 🎖️ Honors and Awards
+- 2026.06:&nbsp;🎖Outstanding Graduate，Nankai University(南开大学优秀毕业生)；
+
 - 2026.05:&nbsp;🎖Outstanding Student Party Member Model, Nankai University(南开大学优秀学生党员标兵，全校仅10人入选)；
 
 - 2026.05:&nbsp;🎖Outstanding Youth League member, Nankai University(南开大学优秀共青团员)；
