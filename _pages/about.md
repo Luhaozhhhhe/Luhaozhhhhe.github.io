@@ -113,7 +113,7 @@ I have organized the [Course Note](https://github.com/Luhaozhhhhe/NKU_Course_Not
   <div class='paper-box-image'>
     <div>
       <div class="badge">arxiv / Preprint</div>
-      <img src='images/projects/ToxicRAG.png' alt="ToxicRAG" width="100%">
+      <img src='images/projects/ToxicRAG.png' alt="RAGForensics" width="100%">
     </div>
   </div>
 
