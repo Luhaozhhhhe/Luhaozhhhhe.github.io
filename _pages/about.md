@@ -113,6 +113,30 @@ I have organized the [Course Note](https://github.com/Luhaozhhhhe/NKU_Course_Not
   <div class='paper-box-image'>
     <div>
       <div class="badge">arxiv / Preprint</div>
+      <img src='images/projects/ToxicRAG.png' alt="ToxicRAG" width="100%">
+    </div>
+  </div>
+
+  <div class='paper-box-text'>
+    <p>
+      <a href="https://arxiv.org/abs/2602.06718" target="_blank" rel="noopener"><strong>ToxicRAG: Compromising Retrieval-Augmented Generation Systems via Single-Shot Knowledge Poisoning Attacks</strong></a>
+    </p>
+    <p>
+      <span class="paper-role-badge">first author</span>
+      <span class="paper-time-badge">2026.04 – 2026.09</span>
+    </p>
+<ul style="margin-top: 0.5em; padding-left: 1.5em;">
+    <li></li>
+    <li></li>
+    <li></li>
+</ul>
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">arxiv / Preprint</div>
       <img src='images/projects/GHOSTCITE.png' alt="RAGForensics" width="100%">
     </div>
   </div>
