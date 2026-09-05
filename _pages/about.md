@@ -91,9 +91,10 @@ redirect_from:
 
 <span class='anchor' id='about'></span>
 
-Hello everyone, my name is Haozhe Lu (陆皓喆). I am currently an undergraduate student in the College of Cryptology and Cyber Science(密码与网络空间安全学院), Nankai University(南开大学), majoring in Cyber Security and minoring in Finance. Please feel free to contact me through **15058298819@163.com** if you are interested in my projects.
+Hello everyone, my name is Haozhe Lu (陆皓喆). I am currently a first-year Master's student in Network and Information Security(网络与信息安全) at Peking University(北京大学), where I am a member of The Knowledge Computing Lab. 
 
-In September 2026, I will begin my graduate studies at Peking University(北京大学), pursuing a Master's degree in Network and Information Security(网络与信息安全). 
+I received my Bachelor's degree in Cyber Security from the College of Cryptology and Cyber Science(密码与网络空间安全学院), Nankai University(南开大学), with a minor in Finance. Feel free to reach out to me at **15058298819@163.com** if you have any collaboration opportunities or shared interests.
+
 
 My research interests lie in:
 
