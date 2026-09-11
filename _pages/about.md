@@ -119,16 +119,16 @@ I have organized the [Course Note](https://github.com/Luhaozhhhhe/NKU_Course_Not
 
   <div class='paper-box-text'>
     <p>
-      <a href="https://arxiv.org/abs/2602.06718" target="_blank" rel="noopener"><strong>ToxicRAG: Compromising Retrieval-Augmented Generation Systems via Single-Shot Knowledge Poisoning Attacks</strong></a>
+      <a href="https://arxiv.org/abs/2609.11082" target="_blank" rel="noopener"><strong>ToxicRAG: Compromising Retrieval-Augmented Generation Systems via Single-Shot Knowledge Poisoning Attacks</strong></a>
     </p>
     <p>
       <span class="paper-role-badge">first author</span>
       <span class="paper-time-badge">2026.04 – 2026.09</span>
     </p>
 <ul style="margin-top: 0.5em; padding-left: 1.5em;">
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>Reviewed over ten papers and reproduced poisoning attacks such as PoisonedRAG, AuthChain, and CorruptRAG to establish baselines for our proposed attack.</li>
+    <li>Designed ToxicRAG, a single-text "one-shot" attack that integrates methods including majority suppression, authority suppression, and causal logic chains to achieve a high hit rate with a single text.</li>
+    <li>Evaluated ToxicRAG's attack performance on three datasets across four Large Language Models (LLMs), demonstrating superior results compared to state-of-the-art (SOTA) attack models.</li>
 </ul>
   </div>
 </div>
